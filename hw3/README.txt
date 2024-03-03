@@ -1,0 +1,1 @@
+Simply run the ipynb file to print all required statistics and generate all output files.
