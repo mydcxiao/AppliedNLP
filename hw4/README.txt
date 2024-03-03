@@ -3,7 +3,7 @@ README
 ###############
 
 Code running:
-1. make sure the data folder and glove.6B.100d in the same dir as .ipynb.
+1. make sure the data folder and glove.6B.100d.gz in the same dir as .ipynb.
 2. config the environment according to the requirements.txt file
 3. running the .ipynb to get all output files
 
