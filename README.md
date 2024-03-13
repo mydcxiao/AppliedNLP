@@ -1,6 +1,6 @@
 # CSCI544-NLP
 
-[CSCI544 Applied Natural Language Processing](https://web-app.usc.edu/soc/syllabus/20241/30063.pdf)
+[CSCI544 Applied Natural Language Processing]([https://web-app.usc.edu/soc/syllabus/20241/30063.pdf](https://docs.google.com/document/d/1zndktExJQ2NuQ10jnINdl1jtupKnyrsb/edit))
 
 ## Homework
 | Homework      | Topic         | Algorithms/Neural Networks 
